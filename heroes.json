@@ -17,12 +17,6 @@
       "name": "Морской герой",
       "description": "Как аквамен, но не из DC",
       "element": "water"
-    },
-    {
-      "id": "57b61dfb-20f7-4644-9939-dfb3b84dc570",
-      "name": "Mykyta",
-      "description": "Nothing",
-      "element": "earth"
     }
   ],
   "filters": [
